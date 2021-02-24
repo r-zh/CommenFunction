@@ -99,3 +99,10 @@ int class_practice() {
     return 0;
 
 }
+/**
+int main(){
+    class_practice();
+    
+    return 0;
+}
+ */
